@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mlrainer/Desktop/Code Louisville /Knowledge Check 2/sdc1-kknowledge-check-2/SDC-1-KnowledgeCheck2/SDC-1-KnowledgeCheck2/SDC-1-KnowledgeCheck2.csproj": {}
+  },
+  "projects": {
+    "/Users/mlrainer/Desktop/Code Louisville /Knowledge Check 2/sdc1-kknowledge-check-2/SDC-1-KnowledgeCheck2/SDC-1-KnowledgeCheck2/SDC-1-KnowledgeCheck2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mlrainer/Desktop/Code Louisville /Knowledge Check 2/sdc1-kknowledge-check-2/SDC-1-KnowledgeCheck2/SDC-1-KnowledgeCheck2/SDC-1-KnowledgeCheck2.csproj",
+        "projectName": "SDC-1-KnowledgeCheck2",
+        "projectPath": "/Users/mlrainer/Desktop/Code Louisville /Knowledge Check 2/sdc1-kknowledge-check-2/SDC-1-KnowledgeCheck2/SDC-1-KnowledgeCheck2/SDC-1-KnowledgeCheck2.csproj",
+        "packagesPath": "/Users/mlrainer/.nuget/packages/",
+        "outputPath": "/Users/mlrainer/Desktop/Code Louisville /Knowledge Check 2/sdc1-kknowledge-check-2/SDC-1-KnowledgeCheck2/SDC-1-KnowledgeCheck2/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mlrainer/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

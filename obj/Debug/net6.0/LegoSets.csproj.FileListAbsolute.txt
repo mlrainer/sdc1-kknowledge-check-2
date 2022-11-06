@@ -1,0 +1,15 @@
+/Users/mlrainer/Desktop/Code Louisville /Knowledge Check 2/sdc1-kknowledge-check-2/SDC-1-KnowledgeCheck2/SDC-1-KnowledgeCheck2/obj/Debug/net6.0/LegoSets.csproj.AssemblyReference.cache
+/Users/mlrainer/Desktop/Code Louisville /Knowledge Check 2/sdc1-kknowledge-check-2/SDC-1-KnowledgeCheck2/SDC-1-KnowledgeCheck2/obj/Debug/net6.0/LegoSets.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mlrainer/Desktop/Code Louisville /Knowledge Check 2/sdc1-kknowledge-check-2/SDC-1-KnowledgeCheck2/SDC-1-KnowledgeCheck2/obj/Debug/net6.0/LegoSets.AssemblyInfoInputs.cache
+/Users/mlrainer/Desktop/Code Louisville /Knowledge Check 2/sdc1-kknowledge-check-2/SDC-1-KnowledgeCheck2/SDC-1-KnowledgeCheck2/obj/Debug/net6.0/LegoSets.AssemblyInfo.cs
+/Users/mlrainer/Desktop/Code Louisville /Knowledge Check 2/sdc1-kknowledge-check-2/SDC-1-KnowledgeCheck2/SDC-1-KnowledgeCheck2/obj/Debug/net6.0/LegoSets.csproj.CoreCompileInputs.cache
+/Users/mlrainer/Desktop/Code Louisville /Knowledge Check 2/sdc1-kknowledge-check-2/SDC-1-KnowledgeCheck2/SDC-1-KnowledgeCheck2/obj/Debug/net6.0/SDC-1-KnowledgeCheck2.dll
+/Users/mlrainer/Desktop/Code Louisville /Knowledge Check 2/sdc1-kknowledge-check-2/SDC-1-KnowledgeCheck2/SDC-1-KnowledgeCheck2/obj/Debug/net6.0/refint/SDC-1-KnowledgeCheck2.dll
+/Users/mlrainer/Desktop/Code Louisville /Knowledge Check 2/sdc1-kknowledge-check-2/SDC-1-KnowledgeCheck2/SDC-1-KnowledgeCheck2/obj/Debug/net6.0/SDC-1-KnowledgeCheck2.pdb
+/Users/mlrainer/Desktop/Code Louisville /Knowledge Check 2/sdc1-kknowledge-check-2/SDC-1-KnowledgeCheck2/SDC-1-KnowledgeCheck2/bin/Debug/net6.0/SDC-1-KnowledgeCheck2
+/Users/mlrainer/Desktop/Code Louisville /Knowledge Check 2/sdc1-kknowledge-check-2/SDC-1-KnowledgeCheck2/SDC-1-KnowledgeCheck2/bin/Debug/net6.0/SDC-1-KnowledgeCheck2.deps.json
+/Users/mlrainer/Desktop/Code Louisville /Knowledge Check 2/sdc1-kknowledge-check-2/SDC-1-KnowledgeCheck2/SDC-1-KnowledgeCheck2/bin/Debug/net6.0/SDC-1-KnowledgeCheck2.runtimeconfig.json
+/Users/mlrainer/Desktop/Code Louisville /Knowledge Check 2/sdc1-kknowledge-check-2/SDC-1-KnowledgeCheck2/SDC-1-KnowledgeCheck2/bin/Debug/net6.0/SDC-1-KnowledgeCheck2.dll
+/Users/mlrainer/Desktop/Code Louisville /Knowledge Check 2/sdc1-kknowledge-check-2/SDC-1-KnowledgeCheck2/SDC-1-KnowledgeCheck2/bin/Debug/net6.0/SDC-1-KnowledgeCheck2.pdb
+/Users/mlrainer/Desktop/Code Louisville /Knowledge Check 2/sdc1-kknowledge-check-2/SDC-1-KnowledgeCheck2/SDC-1-KnowledgeCheck2/obj/Debug/net6.0/LegoSets.genruntimeconfig.cache
+/Users/mlrainer/Desktop/Code Louisville /Knowledge Check 2/sdc1-kknowledge-check-2/SDC-1-KnowledgeCheck2/SDC-1-KnowledgeCheck2/obj/Debug/net6.0/ref/SDC-1-KnowledgeCheck2.dll

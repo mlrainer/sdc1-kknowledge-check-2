@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SDC_1_KnowledgeCheck2
+build_property.ProjectDir = /Users/mlrainer/Desktop/Code Louisville /Knowledge Check 2/sdc1-kknowledge-check-2/SDC-1-KnowledgeCheck2/SDC-1-KnowledgeCheck2/
